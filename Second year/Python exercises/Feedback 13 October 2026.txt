@@ -1,0 +1,9 @@
+Very good work.
+
+Exercise 5 is missing an =
+
+Exercise 6 - question 2 is in  complete
+	     question 3 is missing the string value
+
+Exercise 8 - when I write a mobile number the leading 0 is missing
+	     from the output. It is because you are converting to int.

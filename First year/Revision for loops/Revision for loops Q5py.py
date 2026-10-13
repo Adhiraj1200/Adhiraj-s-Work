@@ -1,0 +1,3 @@
+word = str(input("Enter a word:"))
+for x in word:
+    print(x)

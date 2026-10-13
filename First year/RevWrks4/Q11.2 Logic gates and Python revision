@@ -1,0 +1,9 @@
+name = str(input("Please tell me your name:"))
+if name == "Jerry":
+    print("The meal is free")
+else:
+    portions = int(input("How many portions of soup:"))
+    cost = portions * 5.90
+    print("The total cost is",cost,"euros")
+    
+    
